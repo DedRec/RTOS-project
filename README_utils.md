@@ -6,8 +6,5 @@ This header file declares utility functions for initializing peripherals, UART c
 ## Contents
 - Function declarations for utility functions (`uartInit()`, `sendToUart()`, etc.).
 
-## Usage
-Include this header file in your source files where utility functions are utilized. Implement the functions as per your project requirements.
-
 ## Dependencies
 - TivaWare Peripheral Driver Library
