@@ -32,6 +32,3 @@ The Power Window Control System is a project designed to automate the control of
 ## Contributing
 Contributions to enhance functionality, optimize code, or fix bugs are welcome. Please follow the standard contribution guidelines.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
