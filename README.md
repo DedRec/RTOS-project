@@ -29,6 +29,4 @@ The Power Window Control System is a project designed to automate the control of
 - TivaWare Peripheral Driver Library: Provides APIs for controlling the peripherals of the Tiva C Series microcontroller.
 - Tiva C Series TM4C123G LaunchPad: Hardware platform used for development.
 
-## Contributing
-Contributions to enhance functionality, optimize code, or fix bugs are welcome. Please follow the standard contribution guidelines.
 
